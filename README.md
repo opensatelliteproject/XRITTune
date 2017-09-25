@@ -1,2 +1,5 @@
 # XRITTune
-XRIT Parameters Tuning
+
+XRIT False Color Generation Parameters Tuning
+
+
